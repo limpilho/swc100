@@ -222,7 +222,7 @@ cmd> node test.js
 
 - 트랜잭션 흐름 파악 가능, 블록 생성
 
-### 결론
+### ***conclusion***
 
 - 가시성 지정자 (public, private, internal, external)가 선언되어 있지 않은 경우, 외부 다른 계정이 해당 함수를 호출하여 이더 값을 출금해 갈 수 있음
 
