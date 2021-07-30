@@ -1,6 +1,4 @@
 # swc100
-## *TiTle*
-
 > *Function Default Visibility*
 
 코드에 가시성 지정자 (`public, private, internal, external` ) 가 선언되지 않은 경우, 취약점이 발생
