@@ -1,4 +1,20 @@
 # swc100
+## *TiTle*
+
+> *Function Default Visibility*
+
+코드에 가시성 지정자 (`public, private, internal, external` ) 가 선언되지 않은 경우, 취약점이 발생
+
+- CWE-710 취약점 : 코딩 표준의 부적절성
+- 가시성 지정자가 선언되지 않은, 취약한 코드로 취약점에 대한 실습을 진행
+
+### 실습환경
+
+- *Truffle v5.4.1 (core: 5.4.1)*
+- *Solidity - 0.4.24 (solc-js)*
+- *Node v14.17.3*
+- *Web3.js v1.4.0*
+- 
 ### *SWC100 - Code*
 
  ***Vulnerability Contract*** 
