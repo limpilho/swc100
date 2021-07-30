@@ -1,4 +1,5 @@
 # swc100
+swc100 url : https://swcregistry.io/docs/SWC-100#visibility-not-setsol
 > *Function Default Visibility*
 
 코드에 가시성 지정자 (`public, private, internal, external` ) 가 선언되지 않은 경우, 취약점이 발생
