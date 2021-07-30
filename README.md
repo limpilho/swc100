@@ -1,7 +1,7 @@
 # swc100
 ### *SWC100 - Code*
 
-취약한 ***Contract*** 
+ ***Contract*** 
 
 ```jsx
 pragma solidity ^0.4.24;
@@ -19,7 +19,7 @@ contract HashForEther {
      }
 }
 ```
-취약점 Fix Contract
+ ***Fix Contract***
 
 ```jsx
 pragma solidity ^0.4.24;
