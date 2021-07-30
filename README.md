@@ -14,7 +14,7 @@
 - *Solidity - 0.4.24 (solc-js)*
 - *Node v14.17.3*
 - *Web3.js v1.4.0*
-- 
+
 ### *SWC100 - Code*
 
  ***Vulnerability Contract*** 
