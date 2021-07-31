@@ -13,6 +13,7 @@ swc100 url : https://swcregistry.io/docs/SWC-100#visibility-not-setsol
 - *Solidity - 0.4.24 (solc-js)*
 - *Node v14.17.3*
 - *Web3.js v1.4.0*
+- *Ganache GUI*
 
 ### *SWC100 - Code*
 
