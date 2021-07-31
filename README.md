@@ -200,7 +200,7 @@ async function attack_send(){
 attack_send();
 ```
 
-4. 전체 과정
+###전체 과정
 
 1. swc100.sol → 코딩 진행 및 `cmd> truffle compile`
 
