@@ -89,14 +89,14 @@ swc100 코드에는, contract 주소로 값을 전송할 수가 없음, 외부�
 pragma solidity >=0.4.22 <0.9.0;
 
 contract HashForEther {
-    function withdrawWinnings() public { 
+    function withdrawWinnings() { 
         require(uint32(msg.sender) == 0,
         "msg.sender not 8hex 00000000");
         
         _sendWinnings();
      }
 
-     function _sendWinnings() internal {    
+     function _sendWinnings() {    
         msg.sender.transfer(this.balance);
      }
 
