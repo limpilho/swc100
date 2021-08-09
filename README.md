@@ -257,5 +257,5 @@ contract HashForEther {
 - _sendWinnings() 함수로 접근할 경우, 다음과 같이 예외처리가 발생하여 프로그램이 종료됨
 
 ```jsx
-UnhandledPromiseRejectionWarning: TypeError: attack_send.methods._sendWinnings is not a function
+UnhandledPromiseRejectionWarning: Error: Returned error: VM Exception while processing transaction: revert
 ```
